@@ -17,6 +17,8 @@
 ### 5. Ejemplifique el comando de Linux: mkdir
 ### 6. Ejemplifique el comando de Linux: ls
 ### 7. Ejemplifique el comando de Linux: pwd
+![image](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-JosephMA7/assets/92870790/4520384a-8412-4d6d-b72f-e045cd422f85)
+
 ### 8. Ejemplifique el comando de Linux: touch
 ### 9. Ejemplifique el comando de Linux: grep
 ### 10. Ejemplifique el comando de Linux: cd
