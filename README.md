@@ -39,7 +39,8 @@
 
 ### 9. Ejemplifique el comando de Linux: grep
 	El comando grep en Linux se utiliza para buscar patrones de texto dentro de archivos o la salida de otros comandos.
-	![image](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-JosephMA7/assets/92870790/b6a9614c-da49-4469-89c2-ca2e72eecb12)
+![image](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-JosephMA7/assets/92870790/255bd307-9f24-4b8c-a09d-5a9381c11e3d)
+
 
 ### 10. Ejemplifique el comando de Linux: cd
 	El comando cd en Linux se utiliza para cambiar el directorio actual.
