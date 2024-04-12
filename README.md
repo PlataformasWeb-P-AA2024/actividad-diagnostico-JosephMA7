@@ -13,6 +13,7 @@
 	git pull
 	git push
 ### 3. Ejemplifique el comando de Linux: mv
+	El comando mv en Linux se utiliza para mover o renombrar archivos y directorios.
 ### 4. Ejemplifique el comando de Linux: cp
 ### 5. Ejemplifique el comando de Linux: mkdir
 ### 6. Ejemplifique el comando de Linux: ls
