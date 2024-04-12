@@ -34,7 +34,11 @@
 ![image](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-JosephMA7/assets/92870790/4520384a-8412-4d6d-b72f-e045cd422f85)
 
 ### 8. Ejemplifique el comando de Linux: touch
+	El comando touch en Linux se utiliza principalmente para crear archivos vacíos o actualizar las marcas de tiempo de los archivos existentes. 
+
 ### 9. Ejemplifique el comando de Linux: grep
+	El comando grep en Linux se utiliza para buscar patrones de texto dentro de archivos o la salida de otros comandos.
+	
 ### 10. Ejemplifique el comando de Linux: cd
 	El comando cd en Linux se utiliza para cambiar el directorio actual.
  ![image](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-JosephMA7/assets/92870790/5034df7c-c6cb-4f97-9858-7b66d7b4e7c6)
