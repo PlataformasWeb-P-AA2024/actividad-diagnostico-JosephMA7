@@ -18,6 +18,8 @@
 
 ### 4. Ejemplifique el comando de Linux: cp
  	El comando cp en Linux se utiliza para copiar archivos y directorios
+  ![image](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-JosephMA7/assets/92870790/85b75e09-d431-4309-b034-cb786d5b49ac)
+
 ### 5. Ejemplifique el comando de Linux: mkdir`
 	El comando mkdir en Linux se utiliza para crear un nuevo directorio (carpeta) en el sistema de archivos.
 
@@ -25,6 +27,8 @@
 
 ### 6. Ejemplifique el comando de Linux: ls
 	El comando ls en Linux se utiliza para listar los archivos y directorios en el directorio actual.
+ ![image](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-JosephMA7/assets/92870790/dcba37ff-e8a8-4d97-8066-a2599dac76b6)
+
 ### 7. Ejemplifique el comando de Linux: pwd
 	El comando pwd en Linux se utiliza para imprimir el directorio de trabajo actual en la consola.
 ![image](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-JosephMA7/assets/92870790/4520384a-8412-4d6d-b72f-e045cd422f85)
@@ -33,7 +37,13 @@
 ### 9. Ejemplifique el comando de Linux: grep
 ### 10. Ejemplifique el comando de Linux: cd
 	El comando cd en Linux se utiliza para cambiar el directorio actual.
+ ![image](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-JosephMA7/assets/92870790/5034df7c-c6cb-4f97-9858-7b66d7b4e7c6)
+
 ### 11. Ejemplifique el comando de Linux: mv
 	El comando mv en Linux se utiliza para mover o renombrar archivos y directorios.
+ ![image](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-JosephMA7/assets/92870790/052a293f-7868-43c4-9d2f-98fc0e99f866)
+![image](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-JosephMA7/assets/92870790/71f50bca-25ca-4548-aa02-4d8da528cf88)
+
 ### 12. Ejemplifique el comando de Linux: cat
 	El comando cat en Linux se utiliza para concatenar archivos y mostrar su contenido en la salida estándar (normalmente la consola). 
+ ![image](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-JosephMA7/assets/92870790/82226f59-0992-4a73-a3a4-0c71f2af6525)
