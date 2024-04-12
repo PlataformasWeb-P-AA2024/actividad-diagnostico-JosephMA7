@@ -21,7 +21,6 @@
 ### 5. Ejemplifique el comando de Linux: mkdir`
 	El comando mkdir en Linux se utiliza para crear un nuevo directorio (carpeta) en el sistema de archivos.
 
-### 5. Ejemplifique el comando de Linux: mkdir
 ![image](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-JosephMA7/assets/92870790/fa5fbbc2-1759-47a0-9f95-a42850d1d591)
 
 ### 6. Ejemplifique el comando de Linux: ls
