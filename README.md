@@ -14,6 +14,8 @@
 	git push
 ### 3. Ejemplifique el comando de Linux: mv
 	El comando mv en Linux se utiliza para mover o renombrar archivos y directorios.
+ ![image](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-JosephMA7/assets/92870790/2b98397d-01c1-464f-8c24-7880e1d509a2)
+
 ### 4. Ejemplifique el comando de Linux: cp
 ### 5. Ejemplifique el comando de Linux: mkdir
 ### 6. Ejemplifique el comando de Linux: ls
