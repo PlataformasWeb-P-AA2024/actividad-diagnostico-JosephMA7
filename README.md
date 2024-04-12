@@ -47,3 +47,5 @@
 ### 12. Ejemplifique el comando de Linux: cat
 	El comando cat en Linux se utiliza para concatenar archivos y mostrar su contenido en la salida estándar (normalmente la consola). 
  ![image](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-JosephMA7/assets/92870790/82226f59-0992-4a73-a3a4-0c71f2af6525)
+
+probando linux
